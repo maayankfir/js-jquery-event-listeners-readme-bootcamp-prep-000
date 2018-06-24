@@ -24,3 +24,5 @@ function frameIt () {
 
    })
  }
+ $(document).ready(function(){
+}
